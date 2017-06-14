@@ -1,5 +1,5 @@
 {
-  "name": "felixnagel/generic-gallery",
+  "name": "hmccloy/generic-gallery",
   "description": "TYPO3 CMS gallery extension.",
   "autoload": {
     "psr-4": {
@@ -20,10 +20,10 @@
     "php": ">=5.5.0,<7.1",
     "typo3/cms-core": ">=7.2.0,<=8.7"
   },
-  "homepage": "https://github.com/fnagel/generic-gallery",
+  "homepage": "https://github.com/hmccloy/generic-gallery",
   "license": "GPL-2.0+",
   "support": {
-    "issues": "https://github.com/fnagel/generic-gallery/issues"
+    "issues": "https://github.com/hmccloy/generic-gallery/issues"
   },
   "repositories": [
     {
