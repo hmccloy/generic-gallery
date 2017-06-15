@@ -17,7 +17,7 @@
     "fluid"
   ],
   "require": {
-    "php": ">=5.5.0,<7.1",
+    "php": ">=5.5.0,<7.1.99",
     "typo3/cms-core": ">=7.2.0,<=8.7.99"
   },
   "homepage": "https://github.com/hmccloy/generic-gallery",
